@@ -21,6 +21,8 @@ especially those in the computer graphics field.
 ## My languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=501stEcho)](https://github.com/anuraghazra/github-readme-stats)
 
-## My social accounts
+## Socials
 
-[]
+<a href="https://www.linkedin.com/in/paul-laban/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="36"></a>
+<a href="mailto:plaban.pro@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/022/168/458/original/mail-icon-isolated-on-transparent-background-mail-transparency-logo-concept-free-png.png" width="36"></a>
+<a href="https://discord.com/users/.plaban"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" width="36"></a>
