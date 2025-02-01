@@ -2,11 +2,8 @@
 
 ## About me
 
-I am currently a 3rd year student at Epitech Technology in Lyon, France. \
-Up until now, I've worked onto many projects in various fields of computer science.
-
-Altough I have yet to find my dream domain in informatic, I really enjoyed every C and C++ project realized in the context of school, \
-especially those in the computer graphics field.
+As a 4th year student in the Epitech Technology program, I am currently studying abroad in Tsinghua University, Beijing. \
+The computer science fields I find myself most interested in are **Physics Simulation**, **Computer Graphics** and **Game Development**
 
 ## My skills
 
