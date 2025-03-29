@@ -1,4 +1,4 @@
-# Hi guys , I'm Paul
+# Hello everyone, I'm Paul
 
 ## About me
 
